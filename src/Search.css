@@ -1,0 +1,43 @@
+.searcb{
+   text-align: "center";
+}
+.h2 {
+   font-size: 50px;
+   font-style: oblique;
+   font-weight: 400;
+   background-image: conic-gradient(#553c9a, #dcc7c3, rgb(255, 255, 255), #553c9a);
+   color: transparent;
+   background-clip: text;
+   -webkit-background-clip: text;
+ }
+ .container {
+   text-align: Center;
+   width: 100%; /* Adjust as needed */
+   margin: 0 auto; /* Center the container horizontally */
+   padding: 20px; /* Add some padding for spacing */
+   border: 1px solid #ccc; /* Add a border for visual separation */
+   border-radius: 8px; /* Optional: Rounded corners */
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow for depth */
+ }
+ .warning-box {
+ /* Light red background color */
+   color: #cc0000; /* Dark red text color */
+   padding: 8px; /* Padding around the content */
+   border-radius: 5px; /* Rounded corners */
+   margin-bottom: 10px; /* Margin at the bottom for spacing */
+   border: 1px solid #cc0000;
+   font-weight:700;
+   background-color: rgb(238, 226, 226);
+ /* Dark red border */
+ }
+ .t1{
+   color:rgb(62, 62, 62);
+   font-style:inherit;
+ }
+ .text{
+   display: inline-block;
+   vertical-align: middle;
+   color:rgb(151, 136, 136);
+   font-style:italic;
+   font-size:15px;
+ }
